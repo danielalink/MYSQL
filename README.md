@@ -1,6 +1,6 @@
 # MYSQL
 
-##Practice of using MYSQL
+## Practice of using MYSQL
 
 #Importing database
 use sakila;
