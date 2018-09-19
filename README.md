@@ -2,4 +2,4 @@
 
 ## Practice of using MYSQL
 
-[Click](film.sql)
+[Click](../film.sql)
